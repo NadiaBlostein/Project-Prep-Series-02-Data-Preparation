@@ -1,6 +1,8 @@
 # Project-Prep-Series-02-Data-Preparation
-Data preparation is a critical prerequisite to any downstream analysis, especially within the context of machine learning applications. The purpose of the following workshop is to familiarize students with some data preprocessing basics in Python 3+, using .csv and .png files.\
-Part 1 will focus on .csv data preparation and we will be walking through the `CSV_preparation.ipynb` notebook. This notebook contains a mini assignment, the answers of which can be found in `CSV_preparation_Mini_Assignment_Answers.ipynb`.\
+Data preparation is a critical prerequisite to any downstream analysis, especially within the context of machine learning applications. The purpose of the following workshop is to familiarize students with some data preprocessing basics in Python 3+, using .csv and .png files.
+
+Part 1 will focus on .csv data preparation and we will be walking through the `CSV_preparation.ipynb` notebook. This notebook contains a mini assignment, the answers of which can be found in `CSV_preparation_Mini_Assignment_Answers.ipynb`.
+
 Part 2 will focus on .png (2D image) data preparation and we will be walking through the `CSV_preparation.ipynb` notebook. This notebook contains a mini assignment, the answers of which can be found in `CSV_preparation_Mini_Assignment_Answers.ipynb`.
 
 ## Part 1: About the CSV Data
