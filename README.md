@@ -1,5 +1,5 @@
 # Project-Prep-Series-02-Data-Preparation
-Data preparation is a critical prerequisite to any data analysis or machine learning application. The purpose of the following workshop is to familiarize students with some data preprocessing basics in Python 3+, using .csv and .png files.
+Data preparation is a critical prerequisite to any data analysis or machine learning application. The purpose of the following workshop is to familiarize students with some data preparation (ie preprocessing) basics in Python 3+, using .csv and .png files.
 
 Part 1 will focus on .csv data preparation and we will be going through the `CSV_preparation.ipynb` notebook. This notebook contains a mini assignment, the answers of which can be found in `CSV_preparation_mini_assignment_answers.ipynb`.
 
