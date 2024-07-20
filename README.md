@@ -3,7 +3,7 @@ Data preparation is a critical prerequisite to any data analysis or machine lear
 
 Part 1 will focus on .csv data preparation and we will be going through the `CSV_preparation.ipynb` notebook. This notebook contains a mini assignment, the answers of which can be found in `CSV_preparation_mini_assignment_answers.ipynb`.
 
-Part 2 will focus on .png (2D image) data preparation and we will be going through the `CSV_preparation.ipynb` notebook. This notebook contains a mini assignment, the answers of which can be found in `CSV_preparation_mini_assignment_answers.ipynb`.
+Part 2 will focus on .png (2D image) data preparation and we will be going through the `CSV_preparation.ipynb` notebook. This notebook also contains a mini assignment, the answers of which can be found in `CSV_preparation_mini_assignment_answers.ipynb`.
 
 ## Part 1: About the CSV Data
 
