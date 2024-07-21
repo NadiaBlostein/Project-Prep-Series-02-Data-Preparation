@@ -1,5 +1,6 @@
 matplotlib==3.6.2
 numpy==1.21.5
+notebook==7.2.1
 pandas==1.5.2
 Pillow==9.5.0
 protobuf==4.22.4

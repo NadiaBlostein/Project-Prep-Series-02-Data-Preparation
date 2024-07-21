@@ -6,11 +6,14 @@ Part 2 will focus on .png (2D image) data preparation and we will be going throu
 
 # Setting-Up
 Make sure you have Python `3.10.14` or above. To check, type `python -V` from your command-line.
+
 Next, run the following from your command-line:
 ```
 conda create -n WorkshopEnv python=3.10.14
 conda activate WorkshopEnv
 ```
+
+To open the Jupyter notebook, you can either use the `Jupyter` extension in VS Code or you can type `jupyter notebook` from your command line.
 
 # Part 1: About the CSV Data
 
