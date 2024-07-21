@@ -11,6 +11,7 @@ Next, run the following from your command-line:
 ```
 conda create -n WorkshopEnv python=3.10.14
 conda activate WorkshopEnv
+pip install -r requirements.txt
 ```
 
 To open the Jupyter notebook, you can either use the `Jupyter` extension in VS Code or you can type `jupyter notebook` from your command line.
