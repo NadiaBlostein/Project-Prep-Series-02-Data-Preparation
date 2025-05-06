@@ -1,4 +1,4 @@
-[![Binder](https://test.conp.cloud/badge_logo.svg)](https://test.conp.cloud/v2/gh/NadiaBlostein/Project-Prep-Series-02-Data-Preparation/HEAD)
+[![Binder](https://binder-mcgill.conp.cloud/badge_logo.svg)](https://binder-mcgill.conp.cloud/v2/gh/roboneurolibre/Project-Prep-Series-02-Data-Preparation/HEAD)
 
 Data preparation is a critical prerequisite to any data analysis or machine learning application. The purpose of the following workshop is to familiarize students with some data preparation (ie preprocessing) basics in Python 3+, using .csv and .png files.
 
